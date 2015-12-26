@@ -1,6 +1,6 @@
 Forked from [Feiox/useless-websites](https://github.com/Feiox/useless-websites)  
 
-## **本人 fork 后仅供自己使用，请勿随意 fork 或使用，若因随意使用导致的问题，请自行解决，谢谢合作。**  
+## **本人 fork 后本意是供自己使用。若因随意使用导致的问题，请您自行解决，谢谢合作。**  
 
 2015年12月26日从 [汇总数据 | Malicious Web Site Labs](http://www.mwsl.org.cn/category/hz/) 更新 5 万条记录。根据 [MWSL的要求](http://www.mwsl.org.cn/about/)，实验室发布的相关数据保留版权，仅供合作伙伴及普通用户免费使用，请保持文件的完整性，未经许可不得用于商业目的。转发数据请注明 [出处](http://www.mwsl.org.cn/)。  
 
