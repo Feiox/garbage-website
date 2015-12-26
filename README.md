@@ -1,5 +1,9 @@
 Forked from [Feiox/useless-websites](https://github.com/Feiox/useless-websites)
 
+**本人 fork 后仅供自己使用，请勿随意 fork 或使用，若因随意使用导致的问题，请自行解决，谢谢合作。**
+
+2015年12月26日从 [汇总数据 | Malicious Web Site Labs](http://www.mwsl.org.cn/category/hz/) 更新 5 万条记录。
+
 # 互联网垃圾网站列表
 
 这里是收集到的互联网上的垃圾网站列表。
@@ -20,8 +24,8 @@ Forked from [Feiox/useless-websites](https://github.com/Feiox/useless-websites)
 ## 贡献
 
 我们欢迎任何人向我们贡献垃圾网站的域名列表。  
-请您通过 issue 提交您找到的垃圾站，或讨论某个站点是否应该被列为垃圾站。
-我们也提供了一个简单的 Python 处理脚本，来处理格式、重复等问题。
+请您通过 issue 提交您找到的垃圾站，或讨论某个站点是否应该被列为垃圾站。  
+我们也提供了一个简单的 Python 处理脚本，来处理格式、重复等问题。  
 
 ## 授权协议
 
