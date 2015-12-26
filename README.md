@@ -1,3 +1,5 @@
+Forked from [Feiox/useless-websites](https://github.com/Feiox/useless-websites)
+
 # 互联网垃圾网站列表
 
 这里是收集到的互联网上的垃圾网站列表。
