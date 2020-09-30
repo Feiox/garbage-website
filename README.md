@@ -15,7 +15,7 @@
 
 另外：
 * [uBlock Origin](https://github.com/gorhill/uBlock)  
-  An efficient blocker for Chromium and Firefox. Fast and lean.  
+  An efficient blocker for Chromium and Firefox. Fast and clean.  
 
 P.S.
 *我并不是一个 FF 用户，希望您能帮助我找到更多更好用的这类插件*
