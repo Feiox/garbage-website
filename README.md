@@ -5,11 +5,11 @@
 ## 使用
 您可以这样利用它：
 
-* Chrome 
+* Chrome browser
   * [Personal Blocklist](https://chrome.google.com/webstore/detail/nolijncfnkgaikbjbdaogikpmpbdcdef)    
     您可以将它导入到 Personal Blocklist 插件中，用以屏蔽 Google 搜索结果中的垃圾网站。  
 
-* Firefox
+* Firefox  browser
   * [Hide Unwanted Results of Google Search](https://addons.mozilla.org/en-US/firefox/addon/hide-unwanted-results-of-go/)  
     Hide(block) site specific unwanted results of Google Search Also support Bing Search  
 
