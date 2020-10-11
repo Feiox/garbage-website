@@ -11,7 +11,7 @@
 
 * Firefox
   * [Hide Unwanted Results of Google Search](https://addons.mozilla.org/en-US/firefox/addon/hide-unwanted-results-of-go/)  
-    Hide(block) site specific unwanted results of Google Search Also support Bing Search  
+    Hide(block) site specific unwanted results appearing in Google Search results and it supports Bing Search too1!  
 
 另外：
 * [uBlock Origin](https://github.com/gorhill/uBlock)  
