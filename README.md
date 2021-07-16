@@ -5,7 +5,7 @@
 这里是收集到的互联网上的垃圾网站列表。
 
 ## 使用
-您可以这样利用它：
+您可以这样利用它：it will be really helpful if you add link of video of output.
 
 * Chrome 已失效
   * [Personal Blocklist](https://chrome.google.com/webstore/detail/nolijncfnkgaikbjbdaogikpmpbdcdef)    
